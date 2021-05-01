@@ -4,7 +4,7 @@
 
 
 
-![screen shot](Rogue\screenshot.png)
+![screen shot](screenshot.png)
 
 
 
