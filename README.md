@@ -8,6 +8,8 @@
 
 
 
+List of References used for code creation. 
+
 https://www.youtube.com/watch?v=iKo9pDKKHnc
 https://www.w3schools.com/jsref/met_win_confirm.asp
 https://net-comber.com/charset.html
