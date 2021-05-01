@@ -1,11 +1,10 @@
+## Java Script Random Password Generator 
+
++ This program utilizes alert and prompt notifications to filter user preferences for a randomized password between 8 and 128 characters
 
 
 
-
-
-
-
-
+![screen shot](Rogue\screenshot.png)
 
 
 
